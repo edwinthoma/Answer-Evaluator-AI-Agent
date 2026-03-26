@@ -171,5 +171,3 @@ gcloud run deploy evaluator-agent \
 - LinkedIn: https://linkedin.com/in/edwin--thomas
 - GitHub: https://github.com/edwinthoma
 
-## License
-MIT
